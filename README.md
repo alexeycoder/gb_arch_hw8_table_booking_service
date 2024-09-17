@@ -64,6 +64,10 @@ Presenter принимает это и действует по своему ал
 15. Presenter управляет всем происходящим. Он указывает View и Model что делать
 и как.
 
+UI:
+
+![Снимок экрана от 2024-09-17 19-54-50](https://github.com/user-attachments/assets/fe91b4a7-77e4-4846-ad5c-79792307c682)
+
 ERD домена:
 
 ![Снимок экрана от 2024-09-17 19-36-04](https://github.com/user-attachments/assets/b8e1df0d-381d-4ed8-9d70-ac3a96cb1417)
